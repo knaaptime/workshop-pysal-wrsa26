@@ -29,6 +29,9 @@ Spatial Analysis and Econometrics with PySAL
 * geoprocessing & visualization
 * spatial weights
 * spatial autocorrelation
+* areal interpolation
+
+Optional:
 
 2. Spatial Segmentation
 
